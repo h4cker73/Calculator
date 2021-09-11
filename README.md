@@ -19,6 +19,8 @@ pkg install git
 
 pkg install clang
 
+git clone https://github.com/Mr6MJT/Calculator
+
 cd Calculator
 
 gcc start.c
@@ -29,7 +31,7 @@ gcc start.c
 linux
 --------
 
-git clone
+git clone https://github.com/Mr6MJT/Calculator
 
 gcc start.c
 
