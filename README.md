@@ -39,7 +39,7 @@ gcc start.c
 
 #########################################################
 
-Don't forget to start the script and follow me..
+Don't forget to star the script and follow me..
 -------------------------------------------------
 GOOD LUCK ALL :)
 --------------------------------------------------------
