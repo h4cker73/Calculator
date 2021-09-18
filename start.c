@@ -7,6 +7,7 @@ int main() {
     printf("\033[0;31m #############################################  \n");
     printf("\033[0;31m ##  Simple calculator coded By Mr MJT      ## \n");
     printf("\033[0;31m ##  This is my first project in C language ## \n");
+    printf("\033[0,31m ##   press CTRL + Z to exit the script     ## \n"); 
     printf("\033[0;31m ############################################# \n");
     printf("\n"); 
     int xx = 0;
